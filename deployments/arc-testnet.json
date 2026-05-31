@@ -1,0 +1,8 @@
+{
+  "chainId": 5042002,
+  "rpc": "https://rpc.testnet.arc.network",
+  "contract": "ArcCai40877GlitchProofHub",
+  "address": "0xeD65F098e7eF4E0E1A56F944a80Ab8D45D1fAFb6",
+  "txHash": null,
+  "deployer": "0xF226712E3Bb91156E985eb995E1ae524Ca8896EC"
+}
